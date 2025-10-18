@@ -1,6 +1,6 @@
 {
     "name": "icspark-webdev-env",
-    "image": "node:18-alpine",
+    "image": "mcr.microsoft.com/devcontainers/typescript-node:0-18",
     "forwardPorts": [3000, 3001],
     "customizations": {
       "vscode": {
